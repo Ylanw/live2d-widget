@@ -1,31 +1,22 @@
 {
-  "name": "live2d-widget",
-  "version": "0.9.0",
-  "description": "Live2D widget for web pages",
+  "name": "ylan-live2d",
+  "version": "1.0.0",
+  "description": "Hexo butterfly博客看板娘前端",
   "main": "autoload.js",
-  "type": "module",
   "scripts": {
-    "build": "rollup -c rollup.config.js -f iife | terser -c -m > waifu-tips.js",
-    "build-dev": "rollup -c rollup.config.js -f iife -o waifu-tips.js -w"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevenjoezhang/live2d-widget.git"
+    "url": "git+https://github.com/Ylanw/live2d-widget.git"
   },
   "keywords": [
-    "Live2d"
+    "看板娘前端"
   ],
-  "author": "stevenjoezhang <stevenjoezhang@gmail.com>",
-  "license": "GPL-3.0-or-later",
+  "author": "ylann",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevenjoezhang/live2d-widget/issues"
+    "url": "https://github.com/Ylanw/live2d-widget/issues"
   },
-  "homepage": "https://github.com/stevenjoezhang/live2d-widget#readme",
-  "devDependencies": {
-    "@fortawesome/fontawesome-free": "^6.2.0",
-    "@rollup/plugin-node-resolve": "^15.0.0",
-    "@rollup/pluginutils": "^5.0.1",
-    "rollup": "^3.2.3",
-    "terser": "^5.15.1"
-  }
+  "homepage": "https://github.com/Ylanw/live2d-widget#readme"
 }
