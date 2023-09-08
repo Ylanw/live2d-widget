@@ -1,5 +1,6 @@
 // live2d_path 参数建议使用绝对路径
-const live2d_path = "https://cdn.cbd.int/ylan-live2d@1.0.5/";
+const live2d_path = "https://npm.onmicrosoft.cn/ylan-live2d@1.0.6/";
+// const live2d_path = "https://cdn.cbd.int/ylan-live2d@1.0.5/";
 // const live2d_path = "http://npm.elemecdn.com/ylan-live2d@1.0.4/"
 //const live2d_path = "/live2d-widget/";
 
