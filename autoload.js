@@ -1,5 +1,5 @@
 // live2d_path 参数建议使用绝对路径
-const live2d_path = "https://npm.onmicrosoft.cn/ylan-live2d@1.0.6/";
+const live2d_path = "https://npm.onmicrosoft.cn/ylan-live2d@1.0.7/";
 // const live2d_path = "https://cdn.cbd.int/ylan-live2d@1.0.5/";
 // const live2d_path = "http://npm.elemecdn.com/ylan-live2d@1.0.4/"
 //const live2d_path = "/live2d-widget/";
@@ -37,7 +37,7 @@ if (screen.width >= 768) {
 		initWidget({
 			waifuPath: live2d_path + "waifu-tips.json",
 			// apiPath: "https://live2d.fghrsh.net/api/",
-			cdnPath: "https://cdn.cbd.int/ylan-live2dapi@1.0.5/",
+			cdnPath: "https://cdn.cbd.int/ylan-live2dapi@1.0.6/",
 			// cdnPath: "http://npm.elemecdn.com/ylan-live2dapi@1.0.5/",
 			tools: ["hitokoto", "asteroids", "switch-model", "switch-texture", "photo", "info", "quit"]
 		});
