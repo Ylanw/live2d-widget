@@ -1,6 +1,6 @@
 {
   "name": "ylan-live2d",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Hexo butterfly博客看板娘前端",
   "main": "autoload.js",
   "scripts": {
